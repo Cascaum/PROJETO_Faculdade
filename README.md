@@ -2,7 +2,7 @@ TRATAMENTO DE IMAGEM UTILIZANDO PYTHON POR MEIO DA BIBLIOTECA OPENCV.
 
 /// NEGATIVO DE UMA IMAGEM.
 
-#negativo
+#negativo código.
 
 #img_negative[ : , : ,0] = 255 - img[ : , : ,0]
 #img_negative[ : , : ,1] = 255 - img[ : , : ,1]
