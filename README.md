@@ -36,5 +36,8 @@ EXEMPLO DE IMAGEM:
      Observa-se que cada um dos parametros RGB possui 256 valores, sendo o RGB (255,255,255) a cor branca, e o RGB (0,0,0) a cor preto. 
      No código, pode-se observar que a implementação e incersão da funcionalidade "negativa" na imagem é realizada por meio do calculo "255 - valor do pixel da img". Isso se deve, como apresentado anteriormente, por conta dos valores variarem de 0 á 255. Dessa maneira, observa-se, portanto, que quanto maior for o valor do pixel da img, menor vai ser o resultado do cálculo estabelecido, e isso cria o efeito de negativo, onde tonalidades mais claras se tornam escuras e tonalidades escuras se tornam mais claras após o processamento.
 
-
+OBS: TENTEI SALVAR EM .ipynb MAS O GITHUB NÃO ESTAVA ACEITANDO. 
+     INFORMAVA O ERRO "the notebook does not appear to be valid json"
+     PROCUREI COMO RESOLVER O ERRO NA INTERNET, MAS NADA DO QUE ACHEI ME AJUDOU NA TRATATIVA DA QUESTÃO.
+     DESSA FORMA, PARA O PROFESSOR VER QUE FIZ, ENTREGUEI EM .md
 
